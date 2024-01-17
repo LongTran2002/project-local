@@ -1,6 +1,2 @@
 long 
-change 1
-change in feature
-
-
-change 3
+change in master
